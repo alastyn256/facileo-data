@@ -42,6 +42,12 @@ Les fiches venues de sources sous Licence Ouverte, qui n'ont rencontré ni l'une
 ni l'autre, n'y figurent pas : leur licence ne l'impose pas, et elles restent
 disponibles auprès de leurs producteurs.
 
+Les corrections apportées dans Facileo à une fiche issue d'OpenStreetMap ou du
+référentiel des gares SNCF figurent aussi dans cet export. Une fiche ajoutée
+indépendamment dans Facileo reste hors de cet export, sauf si elle fusionne
+ensuite avec une fiche issue de ces sources. L'identité du contributeur n'est
+jamais publiée.
+
 Les comptes, favoris, messages, photos et signalements des utilisateurs n'y figurent pas.
 L'archive contient les fiches publiées et les fiches absorbées par une fusion, avec
 leur provenance. Ce n'est donc ni toute la base interne ni uniquement les lieux
@@ -50,15 +56,17 @@ visibles sur la carte.
 ## Pourquoi cet export
 
 Facileo sélectionne, normalise et rapproche les données ouvertes. Ces traitements
-produisent une base dérivée, même sans ajouter de relevé manuel. L'offre d'un accès
-lisible par machine répond à l'article 4.6 de l'ODbL. GitHub est le moyen
-d'hébergement choisi ; la licence n'impose pas cette plateforme.
+produisent une base dérivée ; les corrections apportées aux fiches concernées y
+sont incluses. L'offre d'un accès lisible par machine répond à l'article 4.6
+de l'ODbL. GitHub est le moyen d'hébergement choisi ; la licence n'impose pas
+cette plateforme.
 
 ## Avertissement
 
-Ces données viennent de sources publiques que Facileo réunit ; des erreurs sont
-possibles, et un lieu peut avoir changé depuis le dernier passage. Ne les
-utilisez pas comme seule garantie d'accessibilité pour une personne.
+Ces données viennent de sources publiques que Facileo réunit et peuvent inclure
+des corrections apportées dans l'app. Des erreurs sont possibles, et un lieu peut
+avoir changé depuis le dernier passage. Ne les utilisez pas comme seule garantie
+d'accessibilité pour une personne.
 
 Le dédoublonnage est prudent par choix : mieux vaut un doublon visible qu'un
 lieu accessible disparu. Vous rencontrerez donc des lieux proches qui sont le
