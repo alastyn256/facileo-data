@@ -8,8 +8,9 @@ ainsi que les fiches ayant fusionné avec ces sources.
 ## Télécharger
 
 Les exports vivent dans les [releases publiques](https://github.com/alastyn256/facileo-data/releases).
-La publication suit l'actualisation mensuelle d'OpenStreetMap réussie ; une reprise
-ou un export manuel peut produire plusieurs releases dans le même mois. Chaque release contient :
+La publication suit l'actualisation mensuelle d'OpenStreetMap, même si une région n'a pas pu
+être relue : elle garde alors ses données du passage précédent. Une reprise ou un export manuel
+peut produire plusieurs releases dans le même mois. Chaque release contient :
 
 | Fichier | Contenu |
 |---|---|
